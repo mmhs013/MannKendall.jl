@@ -1,6 +1,6 @@
 name = "MannKendall"
 uuid = "1761a1e1-e032-445b-870e-f3b23132a90a"
-authors = ["Acme Corp"]
+authors = ["Md. Manjurul Hussain"]
 version = "0.1.0"
 
 [compat]
