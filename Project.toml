@@ -1,0 +1,13 @@
+name = "MannKendall"
+uuid = "1761a1e1-e032-445b-870e-f3b23132a90a"
+authors = ["Acme Corp"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
