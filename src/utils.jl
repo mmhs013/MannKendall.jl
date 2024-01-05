@@ -25,7 +25,7 @@ function variance_s(x, n)
         demo = ones(n)
         
         for i in 1:g
-            tp[i] = sum(demo[x == unique_x[i]])
+            tp[i] = sum(demo[x .== unique_x[i]])
         end
         var_s = (n*(n-1)*(2*n+5) - sum(tp*(tp-1)*(2*tp+5)))/18
     end
