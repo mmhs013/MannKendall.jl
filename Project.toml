@@ -1,6 +1,6 @@
 name = "MannKendall"
 uuid = "1761a1e1-e032-445b-870e-f3b23132a90a"
-version = "0.1.0"
+version = "1.0.1"
 authors = ["Md. Manjurul Hussain"]
 
 [deps]
